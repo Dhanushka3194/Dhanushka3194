@@ -1,4 +1,4 @@
-# Hi there, I'm Dhanushka! 👋
+# Hi there, I'm Dhanushka!
 
 ## 🚀 About Me
 I'm a Full Stack Developer with 4 years of experience, currently working as a freelancer.
